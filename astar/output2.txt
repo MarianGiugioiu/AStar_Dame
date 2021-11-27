@@ -1,0 +1,9 @@
+Initial: [inc(i,1), inc(i,1), inc(i,1)]
+1) Incuietori: [inc(i,1), inc(i,1), inc(i,1)]
+Folosim cheia: [d,i,d] pentru a ajunge la [inc(d,0), inc(i,2), inc(d,0)].
+2) Incuietori: [inc(d,0), inc(i,2), inc(d,0)]
+Folosim cheia: [g,d,g] pentru a ajunge la [inc(d,0), inc(i,1), inc(d,0)].
+3) Incuietori: [inc(d,0), inc(i,1), inc(d,0)]
+Folosim cheia: [g,d,g] pentru a ajunge la [inc(d,0), inc(d,0), inc(d,0)].
+
+Incuietori(stare scop): [inc(d,0), inc(d,0), inc(d,0)]
